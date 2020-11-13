@@ -26,3 +26,8 @@
 
 ![SLG游戏探索](https://noseparte-1256862255.cos.ap-chengdu.myqcloud.com/087f8d6e3c2c4d5a46ab4666724889a.png)
 
+# 公告
+
+- 邀请几个有时间且有兴趣的客户端小伙伴(unity、cocos)加入我们
+- 联系方式 qq：1721804142 / email: noseparte@aliyun.com
+
