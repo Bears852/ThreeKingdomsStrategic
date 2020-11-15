@@ -26,9 +26,9 @@
 
 ![SLG游戏探索](https://noseparte-1256862255.cos.ap-chengdu.myqcloud.com/087f8d6e3c2c4d5a46ab4666724889a.png)
 
-# Give a Star :star
+# Give a Star :star:
 
-如果你喜欢这个项目，或者对你有帮助，请帮忙点个赞吧！Thank you :heart
+如果你喜欢这个项目，或者对你有帮助，请帮忙点个赞吧！Thank you :heart:
 
 # 公告
 
