@@ -44,7 +44,7 @@ public class UserResourceOutPutTask implements SchedulingConfigurer {
                 userPlayerCache.findAll().forEach(
                         userProfile -> {
                             Optional<UserResource> userResource = userResourceCache.findById(userProfile.getId());
-                            if (userResource.isEmpty()) {
+                            if (!userResource.isPresent()) {
                                 if (log.isDebugEnabled()) {
                                     log.debug("user {} has no resources output", userProfile.getId());
                                 }
