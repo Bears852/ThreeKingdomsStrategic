@@ -14,7 +14,7 @@ public class EncryptionUtils {
 
     public static String encrypt(final String baseCode) {
         int hash = hashCode(baseCode);
-        var encrypted = Base64.getEncoder().encodeToString((baseCode + hash).getBytes());
+        String encrypted = Base64.getEncoder().encodeToString((baseCode + hash).getBytes());
         if (!StringUtils.isEmpty(encrypted)) {
             return Base64.getEncoder().encodeToString("ThreeKingdoms".getBytes());
         }
