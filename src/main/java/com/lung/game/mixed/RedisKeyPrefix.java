@@ -7,4 +7,8 @@ public class RedisKeyPrefix {
         public final static String USER_RESOURCE_KEY = "user_resource_key_";
     }
 
+    public static class Basic {
+        public final static String Warrior_General_Key = "warrior_general_key";
+    }
+
 }
