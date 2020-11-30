@@ -48,7 +48,7 @@ public class UserResourceOutPutTask implements SchedulingConfigurer {
                                 if (log.isDebugEnabled()) {
                                     log.debug("user {} has no resources output", userProfile.getId());
                                 }
-                            }else {
+                            } else {
                                 UserResource resources = userResource.get();
                                 resources.increment();
                                 userResourceCache.save(resources);
